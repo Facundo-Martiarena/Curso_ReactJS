@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './logo.png';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Curso Reactjs
+          Bienvenidos a ÍCARO, la mejor página de compra de calzados deportivos.
         </p>
         <a
           className="App-link"
@@ -15,9 +15,21 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Ir a Ícaro
         </a>
       </header>
+      {/* <body className = "prueba">
+        <img className="" alt="" />
+        <a
+          className = "prueba-link"
+          href = "https://google.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          
+        >
+          Google
+        </a>
+      </body> */}
     </div>
   );
 }
