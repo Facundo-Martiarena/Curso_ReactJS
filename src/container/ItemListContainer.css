@@ -1,0 +1,28 @@
+
+#contenedor{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: black solid 2px;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 30px;
+  width: 20%;
+}
+
+/* .marca{
+  border: black solid 1px;
+  margin: 0;
+  width: 100%;
+} */
+
+
+
+ /* .container-photo{
+    width: 100%;
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+    padding: 0px 20px;
+    height: 13vmin;
+    pointer-events: none;
+    float: center;
+  } */
